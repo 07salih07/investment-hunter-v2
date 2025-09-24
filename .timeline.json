@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   "timeline_index": 12,
+=======
+  "timeline_index": 18,
+>>>>>>> Stashed changes
   "planner": {},
   "gallery_last_file": {},
   "timeline_status": {
@@ -14,7 +18,17 @@
     "9": 1,
     "10": 0,
     "11": 1,
+<<<<<<< Updated upstream
     "12": 1
+=======
+    "12": 1,
+    "13": 1,
+    "14": 1,
+    "15": 1,
+    "16": 1,
+    "17": 1,
+    "18": 1
+>>>>>>> Stashed changes
   },
   "preview_servers": {},
   "preview_server": null,
