@@ -1,51 +1,30 @@
+# Dependencies
 node_modules/
 dist/
 build/
-out/
-bin/
-obj/
-*.o
-*.exe
-*.log
-logs/
+
+# Environment
 .env
 .env.local
 .env.production
-.env.development
-env/
-venv/
-ENV/
-.DS_Store
-.idea/
-*.iml
+
+# IDE
 .vscode/
-.vscode/extensions.json
-.temp/
-*.tmp
-coverage/
-CMakeFiles/
-CMakeCache.txt
-yarn-error.log
-npm-debug.log
-*~
-*.bak
-*.swp
+.idea/
+
+# OS
+.DS_Store
 Thumbs.db
-ehthumbs.db
-Desktop.ini
-*.local
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-.sass-cache/
-.vite_opt_cache/
-test-results/
-*.coverage
-*.lcov
-*.user
-*.code-workspace
-pnpm-lock.yaml
-*.pyc
-__pycache__
+
+# Logs
+*.log
+logs/
+
+# Runtime
+.cache/
+.temp/
+
+# SSH Keys
+*.pem
+*.key
+id_*
